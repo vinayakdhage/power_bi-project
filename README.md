@@ -23,5 +23,5 @@ dashboard
    cadilac black "Eldorado" model gives highest sales 86% with dealear is "Star Enterprises Inc" and
    "Rabun Used Car Sales", behind that Toyota black "Rav4" model and Audi black "A6" gives 86% sales.
  6. Screenshots
-     dashbord snap-- 
+     dashbord snap-- https://github.com/vinayakdhage/power_bi-project/blob/main/snap_car_sales%20dashboard.jpg
 
