@@ -10,25 +10,31 @@ dashboard
   3. year-over-year growth in sales .
   4. top-performing companies, models, and dealers
   5. company wise car sold by models, dealers and dealer regain 
-6. Dataset Description
+3. Dataset Description
    Source--kaggle
    Number of records-- approx 24kraw and 16 col
    Key columns:
    Customer Name, Gender, Annual Income
     Company, Model, Engine, Transmission
      Price ($), Dealer Name, Dealer Region,etc
-7. Tools & Technologies
+4. Tools & Technologies
    Excel / Power BI/ Advance Dax
 
-8. Key Insights
-   SUVs are the most purchased body style
-   company base-
+5. Key Insights
+   1. SUVs are the most purchased body style
+  2. company base-
    cadillac gives highest avg price, on yearly basis chevrolet gives highest car sold and generate highest sales
-   dealer base-
+    oldsmobile, valkswagan, toyota this also give highest sales.
+   3. model base-
+       viper, voyagar are most saling model
+   4. dealer_regian-
+       Austin and jenesville are most car sold regian
+   5. dealer base-
    cadilac black "Eldorado" model gives highest sales 86% with dealear is "Star Enterprises Inc" and
    "Rabun Used Car Sales", behind that Toyota black "Rav4" model and Audi black "A6" gives 86% sales.
-   
- 9. Screenshots
+    4. YTD sales is much better than PYTD, but avg price is normal less than PYTD
+     
+ 6. Screenshots
      dashbord snap-- https://github.com/vinayakdhage/power_bi-project/blob/main/snap_car_sales%20dashboard.jpg
     updated new_snap1--https://github.com/vinayakdhage/power_bi-project/blob/main/snap_car_sales%20dashboard%20n1.jpg
     updated new_snap2--https://github.com/vinayakdhage/power_bi-project/blob/main/snap_car_sales%20dashboard%20n2.jpg
