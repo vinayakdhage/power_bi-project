@@ -24,4 +24,6 @@ dashboard
    "Rabun Used Car Sales", behind that Toyota black "Rav4" model and Audi black "A6" gives 86% sales.
  6. Screenshots
      dashbord snap-- https://github.com/vinayakdhage/power_bi-project/blob/main/snap_car_sales%20dashboard.jpg
-
+    updated new_snap1--https://github.com/vinayakdhage/power_bi-project/blob/main/snap_car_sales%20dashboard%20n1.jpg
+    updated new_snap2--
+    
